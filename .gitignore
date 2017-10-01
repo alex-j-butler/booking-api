@@ -45,7 +45,6 @@ debug~
 # Ignore server daemon
 config
 handlers
-rpc
 server
 stack
 uploader
@@ -57,3 +56,6 @@ steamcmd_windows.go
 
 config.example.yml
 keys.example.yml
+
+# Ignore rpc implementation files
+rpc/*_impl.go
