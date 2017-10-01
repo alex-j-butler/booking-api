@@ -1,6 +1,6 @@
 package client
 
-import "github.com/Qixalite/booking-api/rpc"
+import "alex-j-butler.com/booking-api/rpc"
 
 type ServerResource struct {
 	rpc.V1Server

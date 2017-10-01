@@ -3,7 +3,7 @@ package client
 import (
 	"fmt"
 
-	"github.com/Qixalite/booking-api/rpc"
+	"alex-j-butler.com/booking-api/rpc"
 	"github.com/valyala/gorpc"
 )
 
